@@ -50,7 +50,7 @@ Choose your application name: MyApp
 Installing Backend bundle.
 ```
 
-Run ``` bash php app/console avoo:install ``` and follow the instructions
+Run `php app/console avoo:install` and follow the instructions
 
 TIPS: "yes" is the best answer ;)
 
