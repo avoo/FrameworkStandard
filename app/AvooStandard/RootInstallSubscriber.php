@@ -80,7 +80,7 @@ class RootInstallSubscriber implements EventSubscriberInterface
     public static function getSubscribedEvents()
     {
         return array(
-            ScriptEvents::POST_INSTALL_CMD => array(
+            ScriptEvents::POST_ROOT_PACKAGE_INSTALL => array(
                 array('installCoreBundle', 512),
                 array('installBackendBundle', 256),
                 array('configureApplication', 128),
