@@ -57,12 +57,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/avoo/FrameworkInstallerBundle.git",
-                "reference": "0db13edf24336917f04b83f31bf85906077d3721"
+                "reference": "c01bc20c037e02de8440c1213071ff3de2907ad0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/avoo/FrameworkInstallerBundle/zipball/0db13edf24336917f04b83f31bf85906077d3721",
-                "reference": "0db13edf24336917f04b83f31bf85906077d3721",
+                "url": "https://api.github.com/repos/avoo/FrameworkInstallerBundle/zipball/c01bc20c037e02de8440c1213071ff3de2907ad0",
+                "reference": "c01bc20c037e02de8440c1213071ff3de2907ad0",
                 "shasum": ""
             },
             "require": {
@@ -93,7 +93,7 @@
                 }
             ],
             "description": "Installer bundle for Symfony2 based on Sylius",
-            "time": "2015-12-23 11:37:32"
+            "time": "2016-02-26 13:49:42"
         },
         {
             "name": "behat/transliterator",
@@ -1301,7 +1301,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FriendsOfSymfony/FOSUserBundle/zipball/e39b040e272c72f0a090c67d802e1d3b2d0b0313",
+                "url": "https://api.github.com/repos/FriendsOfSymfony/FOSUserBundle/zipball/e770bfa2fd0fc665f55cd7cfeb34bddeffb892f4",
                 "reference": "e39b040e272c72f0a090c67d802e1d3b2d0b0313",
                 "shasum": ""
             },
@@ -4317,7 +4317,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/composer/zipball/d6ae9a0529e1f39c4c7f9b2f29fff019d79cd1fb",
+                "url": "https://api.github.com/repos/composer/composer/zipball/151774bb5859e79ead2177c2bcfe81e1a61cf6eb",
                 "reference": "d6ae9a0529e1f39c4c7f9b2f29fff019d79cd1fb",
                 "shasum": ""
             },
