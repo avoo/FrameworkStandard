@@ -29,7 +29,7 @@ security:
             anonymous: true
 
         main:
-            switch_user: { role: ROLE_AVOO_ADMIN }
+            switch_user: { role: ROLE_ADMIN }
             context:     user
             pattern:    /.*
             form_login:
@@ -48,13 +48,6 @@ security:
                 remember_me_parameter: _remember_me
             logout: true
             anonymous: true
-            oauth:
-                resource_owners:
-                    facebook: "/oauth/login-facebook"
-                login_path:   /connect
-                failure_path: /connect
-                oauth_user_provider:
-                    service: avoo_core.oauth.user.provider
 
     access_control:
         - { path: ^/login.*, role: IS_AUTHENTICATED_ANONYMOUSLY }
