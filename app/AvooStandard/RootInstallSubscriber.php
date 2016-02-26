@@ -45,6 +45,26 @@ class RootInstallSubscriber implements EventSubscriberInterface
     }
 
     /**
+     * Configure application
+     *
+     * @param CommandEvent $event
+     */
+    public static function configureApplication(CommandEvent $event)
+    {
+        ScriptHandler::configureApp($event);
+    }
+
+    /**
+     * Configure administrator user
+     *
+     * @param CommandEvent $event
+     */
+    public static function setupAdministrator(CommandEvent $event)
+    {
+        ScriptHandler::setupAdmin($event);
+    }
+
+    /**
      * Remove installer files
      *
      * @param CommandEvent $event
@@ -63,6 +83,8 @@ class RootInstallSubscriber implements EventSubscriberInterface
             ScriptEvents::POST_INSTALL_CMD => array(
                 array('installCoreBundle', 512),
                 array('installBackendBundle', 256),
+                array('configureApplication', 128),
+                array('setupAdministrator', 64),
                 array('removeFilesInstaller', 0),
             ),
         );
