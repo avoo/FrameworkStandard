@@ -43,6 +43,7 @@
     "scripts": {
         "post-root-package-install": [
             "Incenteev\\ParameterHandler\\ScriptHandler::buildParameters",
+            "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::buildBootstrap",
             "AvooStandard\\Composer::hookRootInstall"
         ],
         "post-install-cmd": [
