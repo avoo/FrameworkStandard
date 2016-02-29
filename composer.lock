@@ -57,12 +57,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/avoo/FrameworkInstallerBundle.git",
-                "reference": "c65e14cb39cf09846d4224c9783cf0ddff8e0d58"
+                "reference": "d56343146b96a1cec18e85b49271dfa105fcac7d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/avoo/FrameworkInstallerBundle/zipball/c65e14cb39cf09846d4224c9783cf0ddff8e0d58",
-                "reference": "c65e14cb39cf09846d4224c9783cf0ddff8e0d58",
+                "url": "https://api.github.com/repos/avoo/FrameworkInstallerBundle/zipball/d56343146b96a1cec18e85b49271dfa105fcac7d",
+                "reference": "d56343146b96a1cec18e85b49271dfa105fcac7d",
                 "shasum": ""
             },
             "require": {
@@ -93,7 +93,7 @@
                 }
             ],
             "description": "Installer bundle for Symfony2 based on Sylius",
-            "time": "2016-02-29 14:47:30"
+            "time": "2016-02-29 15:13:10"
         },
         {
             "name": "behat/transliterator",
@@ -4373,7 +4373,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/composer/zipball/2ff19e4c622b0201d3d889cbc748a79fbe73d0b2",
+                "url": "https://api.github.com/repos/composer/composer/zipball/c2d78e5ce0293b8996c9473900d2640041639221",
                 "reference": "070ee506937170bb81a2e352aa444eaf29f0a2f6",
                 "shasum": ""
             },
