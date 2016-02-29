@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "4dabc3df70fbee0660d0f6a0c79423da",
+    "hash": "1e81bbafa988047d9199f059c1933329",
     "content-hash": "8566c12e53cd54cef3721defa012aec3",
     "packages": [
         {
@@ -57,12 +57,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/avoo/FrameworkInstallerBundle.git",
-                "reference": "146a1f629af6a8e99caa2783e6f3532a206da4ca"
+                "reference": "c65e14cb39cf09846d4224c9783cf0ddff8e0d58"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/avoo/FrameworkInstallerBundle/zipball/146a1f629af6a8e99caa2783e6f3532a206da4ca",
-                "reference": "146a1f629af6a8e99caa2783e6f3532a206da4ca",
+                "url": "https://api.github.com/repos/avoo/FrameworkInstallerBundle/zipball/c65e14cb39cf09846d4224c9783cf0ddff8e0d58",
+                "reference": "c65e14cb39cf09846d4224c9783cf0ddff8e0d58",
                 "shasum": ""
             },
             "require": {
@@ -93,7 +93,7 @@
                 }
             ],
             "description": "Installer bundle for Symfony2 based on Sylius",
-            "time": "2016-02-26 15:08:43"
+            "time": "2016-02-29 14:47:30"
         },
         {
             "name": "behat/transliterator",
