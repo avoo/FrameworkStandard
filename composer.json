@@ -59,7 +59,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-0": {
-            "": "src/", "AvooStandard\\": "app/"
+            "": "src/"
         }
     },
     "config": {
