@@ -57,12 +57,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/avoo/FrameworkInstallerBundle.git",
-                "reference": "d56343146b96a1cec18e85b49271dfa105fcac7d"
+                "reference": "e0ae62db524da0e8ec7b990e3e6df83d595a093f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/avoo/FrameworkInstallerBundle/zipball/d56343146b96a1cec18e85b49271dfa105fcac7d",
-                "reference": "d56343146b96a1cec18e85b49271dfa105fcac7d",
+                "url": "https://api.github.com/repos/avoo/FrameworkInstallerBundle/zipball/e0ae62db524da0e8ec7b990e3e6df83d595a093f",
+                "reference": "e0ae62db524da0e8ec7b990e3e6df83d595a093f",
                 "shasum": ""
             },
             "require": {
@@ -93,7 +93,7 @@
                 }
             ],
             "description": "Installer bundle for Symfony2 based on Sylius",
-            "time": "2016-02-29 15:13:10"
+            "time": "2016-03-01 15:25:32"
         },
         {
             "name": "behat/transliterator",
@@ -1296,12 +1296,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/FriendsOfSymfony/FOSUserBundle.git",
-                "reference": "e770bfa2fd0fc665f55cd7cfeb34bddeffb892f4"
+                "reference": "a39d000577d735444bee97de9f5ee382e3f85fa1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FriendsOfSymfony/FOSUserBundle/zipball/e770bfa2fd0fc665f55cd7cfeb34bddeffb892f4",
-                "reference": "e770bfa2fd0fc665f55cd7cfeb34bddeffb892f4",
+                "url": "https://api.github.com/repos/FriendsOfSymfony/FOSUserBundle/zipball/a39d000577d735444bee97de9f5ee382e3f85fa1",
+                "reference": "a39d000577d735444bee97de9f5ee382e3f85fa1",
                 "shasum": ""
             },
             "require": {
@@ -1357,7 +1357,7 @@
             "keywords": [
                 "User management"
             ],
-            "time": "2016-02-11 16:30:08"
+            "time": "2016-03-01 11:42:24"
         },
         {
             "name": "gedmo/doctrine-extensions",
@@ -2207,16 +2207,16 @@
         },
         {
             "name": "paragonie/random_compat",
-            "version": "v1.2.0",
+            "version": "v1.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/paragonie/random_compat.git",
-                "reference": "b0e69d10852716b2ccbdff69c75c477637220790"
+                "reference": "f078eba3bcf140fd69b5fcc3ea5ac809abf729dc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/paragonie/random_compat/zipball/b0e69d10852716b2ccbdff69c75c477637220790",
-                "reference": "b0e69d10852716b2ccbdff69c75c477637220790",
+                "url": "https://api.github.com/repos/paragonie/random_compat/zipball/f078eba3bcf140fd69b5fcc3ea5ac809abf729dc",
+                "reference": "f078eba3bcf140fd69b5fcc3ea5ac809abf729dc",
                 "shasum": ""
             },
             "require": {
@@ -2251,7 +2251,7 @@
                 "pseudorandom",
                 "random"
             ],
-            "time": "2016-02-06 03:52:05"
+            "time": "2016-02-29 17:25:04"
         },
         {
             "name": "phpcollection/phpcollection",
@@ -2453,16 +2453,16 @@
         },
         {
             "name": "sensio/framework-extra-bundle",
-            "version": "v3.0.13",
+            "version": "v3.0.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sensiolabs/SensioFrameworkExtraBundle.git",
-                "reference": "bf6be511f4f66d368baeb2cab617203d73cccf4e"
+                "reference": "cccf975c565ccd835bddc30a8fea5cdfe3357bf1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sensiolabs/SensioFrameworkExtraBundle/zipball/bf6be511f4f66d368baeb2cab617203d73cccf4e",
-                "reference": "bf6be511f4f66d368baeb2cab617203d73cccf4e",
+                "url": "https://api.github.com/repos/sensiolabs/SensioFrameworkExtraBundle/zipball/cccf975c565ccd835bddc30a8fea5cdfe3357bf1",
+                "reference": "cccf975c565ccd835bddc30a8fea5cdfe3357bf1",
                 "shasum": ""
             },
             "require": {
@@ -2511,7 +2511,7 @@
                 "annotations",
                 "controllers"
             ],
-            "time": "2016-02-12 08:17:23"
+            "time": "2016-03-01 10:50:07"
         },
         {
             "name": "sensiolabs/security-checker",
@@ -4369,12 +4369,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/composer.git",
-                "reference": "070ee506937170bb81a2e352aa444eaf29f0a2f6"
+                "reference": "ef6b7cdf12dc0331ed1aa9fde8be04e18c8e07e2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/composer/zipball/c2d78e5ce0293b8996c9473900d2640041639221",
-                "reference": "070ee506937170bb81a2e352aa444eaf29f0a2f6",
+                "url": "https://api.github.com/repos/composer/composer/zipball/ef6b7cdf12dc0331ed1aa9fde8be04e18c8e07e2",
+                "reference": "ef6b7cdf12dc0331ed1aa9fde8be04e18c8e07e2",
                 "shasum": ""
             },
             "require": {
@@ -4436,7 +4436,7 @@
                 "dependency",
                 "package"
             ],
-            "time": "2016-02-28 14:08:43"
+            "time": "2016-03-01 14:37:55"
         },
         {
             "name": "composer/semver",
