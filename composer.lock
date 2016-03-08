@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/avoo/FrameworkGeneratorBundle.git",
-                "reference": "56d06143dbc14bb3a8b7eb506715274631824f43"
+                "reference": "539b51fdace000892b343c9f976ceeb988d1bcbe"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/avoo/FrameworkGeneratorBundle/zipball/56d06143dbc14bb3a8b7eb506715274631824f43",
-                "reference": "56d06143dbc14bb3a8b7eb506715274631824f43",
+                "url": "https://api.github.com/repos/avoo/FrameworkGeneratorBundle/zipball/539b51fdace000892b343c9f976ceeb988d1bcbe",
+                "reference": "539b51fdace000892b343c9f976ceeb988d1bcbe",
                 "shasum": ""
             },
             "require": {
@@ -49,7 +49,7 @@
                 }
             ],
             "description": "Resource generator based on Sylius",
-            "time": "2015-12-23 14:01:38"
+            "time": "2016-03-08 15:59:05"
         },
         {
             "name": "avoo/framework-installer-bundle",
@@ -57,12 +57,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/avoo/FrameworkInstallerBundle.git",
-                "reference": "3e89f32d8917282b3d5dbabeba66aacc6adce742"
+                "reference": "402032e01467359b176de19731ebbff744cc52f5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/avoo/FrameworkInstallerBundle/zipball/3e89f32d8917282b3d5dbabeba66aacc6adce742",
-                "reference": "3e89f32d8917282b3d5dbabeba66aacc6adce742",
+                "url": "https://api.github.com/repos/avoo/FrameworkInstallerBundle/zipball/402032e01467359b176de19731ebbff744cc52f5",
+                "reference": "402032e01467359b176de19731ebbff744cc52f5",
                 "shasum": ""
             },
             "require": {
@@ -93,7 +93,7 @@
                 }
             ],
             "description": "Installer bundle for Symfony2 based on Sylius",
-            "time": "2016-03-07 16:19:53"
+            "time": "2016-03-08 15:58:17"
         },
         {
             "name": "behat/transliterator",
@@ -1296,12 +1296,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/FriendsOfSymfony/FOSUserBundle.git",
-                "reference": "88f84f631ee7859c069cf98b475c679e90b16b22"
+                "reference": "16b04c49af05dd3fb381e4abe04f0e5e231ac76d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FriendsOfSymfony/FOSUserBundle/zipball/88f84f631ee7859c069cf98b475c679e90b16b22",
-                "reference": "88f84f631ee7859c069cf98b475c679e90b16b22",
+                "url": "https://api.github.com/repos/FriendsOfSymfony/FOSUserBundle/zipball/16b04c49af05dd3fb381e4abe04f0e5e231ac76d",
+                "reference": "16b04c49af05dd3fb381e4abe04f0e5e231ac76d",
                 "shasum": ""
             },
             "require": {
@@ -1357,7 +1357,7 @@
             "keywords": [
                 "User management"
             ],
-            "time": "2016-03-04 13:20:42"
+            "time": "2016-03-08 11:05:28"
         },
         {
             "name": "gedmo/doctrine-extensions",
@@ -4370,12 +4370,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/composer.git",
-                "reference": "4cc719cab3906ce444e4eb38d59a789bd90b31e2"
+                "reference": "fe134d3359ff6533f5462743cada35eabaf2350f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/composer/zipball/4cc719cab3906ce444e4eb38d59a789bd90b31e2",
-                "reference": "4cc719cab3906ce444e4eb38d59a789bd90b31e2",
+                "url": "https://api.github.com/repos/composer/composer/zipball/fe134d3359ff6533f5462743cada35eabaf2350f",
+                "reference": "fe134d3359ff6533f5462743cada35eabaf2350f",
                 "shasum": ""
             },
             "require": {
@@ -4437,7 +4437,7 @@
                 "dependency",
                 "package"
             ],
-            "time": "2016-03-07 13:07:02"
+            "time": "2016-03-08 13:41:06"
         },
         {
             "name": "composer/semver",
