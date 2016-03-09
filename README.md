@@ -39,21 +39,42 @@ before following the instructions it's better to create your database.
 composer create-project avoo/framework-standard-edition my-project-folder
 ```
 
+Run `php app/console avoo:install` and follow the instructions
+
 Be careful, it's extremely recommend to install the default Core and Backend for using the generator.
 
+Example:
+
 ``` bash
-Would you like to install default core bundle (Recommended)? [y/n] 
+Would you like to install default core bundle (Recommended)? [y/n] y 
 Choose your application name: MyApp
 Installing Core bundle.
-Would you like to install default backend bundle (Recommended)? [y/n] 
+Would you like to install default backend bundle (Recommended)? [y/n] y 
 Choose your application name: MyApp
 Installing Backend bundle.
 ```
 
-Run `php app/console avoo:install` and follow the instructions
+Now Run `php app/console avoo:configure` for generate database + migration and create administrator user.
 
-TIPS: "yes" is the best answer ;)
+by default chose the role "administrator".
 
-Create an administrator, chose the role "administrator".
+That's all ;)
 
-Enjoy.
+Documentation
+-------------
+
+* See more details for installer in [FrameworkInstallerBundle](https://github.com/avoo/FrameworkInstallerBundle/blob/master/README.md)
+
+* How to generate resource: [FrameworkGeneratorBundle](https://github.com/avoo/FrameworkGeneratorBundle/blob/master/README.md)
+
+Credits
+-------
+
+* Jérémy Jégou <jejeavo@gmail.com>
+
+License
+-------
+
+This bundle is released under the MIT license. See the complete license in the bundle:
+
+[License](https://github.com/avoo/FrameworkStandard/blob/master/LICENSE)

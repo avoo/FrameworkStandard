@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/avoo/FrameworkGeneratorBundle.git",
-                "reference": "539b51fdace000892b343c9f976ceeb988d1bcbe"
+                "reference": "6fd1a105eccb0e69306846cac40257ce0db518db"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/avoo/FrameworkGeneratorBundle/zipball/539b51fdace000892b343c9f976ceeb988d1bcbe",
-                "reference": "539b51fdace000892b343c9f976ceeb988d1bcbe",
+                "url": "https://api.github.com/repos/avoo/FrameworkGeneratorBundle/zipball/6fd1a105eccb0e69306846cac40257ce0db518db",
+                "reference": "6fd1a105eccb0e69306846cac40257ce0db518db",
                 "shasum": ""
             },
             "require": {
@@ -49,7 +49,7 @@
                 }
             ],
             "description": "Resource generator based on Sylius",
-            "time": "2016-03-08 15:59:05"
+            "time": "2016-03-09 10:29:54"
         },
         {
             "name": "avoo/framework-installer-bundle",
